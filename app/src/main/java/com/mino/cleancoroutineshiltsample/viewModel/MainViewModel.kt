@@ -5,7 +5,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.mino.cleancoroutineshiltsample.dtoToVo
+import com.mino.cleancoroutineshiltsample.util.dtoToVo
 import com.mino.cleancoroutineshiltsample.vo.ImageVo
 import com.mino.domain.usecase.GetImageUseCase
 import dagger.hilt.android.lifecycle.HiltViewModel

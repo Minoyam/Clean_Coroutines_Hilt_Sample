@@ -1,4 +1,4 @@
-package com.mino.cleancoroutineshiltsample
+package com.mino.cleancoroutineshiltsample.util
 
 import com.mino.cleancoroutineshiltsample.vo.ImageVo
 import com.mino.domain.dto.ImageDto
